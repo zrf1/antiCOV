@@ -2,7 +2,7 @@
 
 http://work.wotojo.com/python/antiCOV
 
-![效果图](./antiCOV.png)
+![效果图](antiCOV.png)
 
 # 项目思路
 
